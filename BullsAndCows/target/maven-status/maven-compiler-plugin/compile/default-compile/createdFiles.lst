@@ -1,0 +1,15 @@
+com\mycompany\bullsandcows\controllers\Error.class
+com\mycompany\bullsandcows\dao\GameDaoImpl$GameMapper.class
+com\mycompany\bullsandcows\dao\RoundDao.class
+com\mycompany\bullsandcows\dao\GameDaoImpl.class
+com\mycompany\bullsandcows\controllers\BullsAndCowsController.class
+com\mycompany\bullsandcows\dto\Round.class
+com\mycompany\bullsandcows\dao\RoundDaoImpl$RoundMapper.class
+com\mycompany\bullsandcows\service\BullsAndCowsServiceLayerImpl.class
+com\mycompany\bullsandcows\controllers\BullsAndCowsControllerExceptionHandler.class
+com\mycompany\bullsandcows\service\BullsAndCowsServiceLayer.class
+com\mycompany\bullsandcows\TestApplicationConfiguration.class
+com\mycompany\bullsandcows\Game.class
+com\mycompany\bullsandcows\dao\RoundDaoImpl.class
+com\mycompany\bullsandcows\App.class
+com\mycompany\bullsandcows\dao\GameDao.class
